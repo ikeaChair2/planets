@@ -1,3 +1,2 @@
-.getignore
-*.csv
+*.csv ! final.csv
 results/
